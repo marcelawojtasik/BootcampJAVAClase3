@@ -1,3 +1,25 @@
+¿Cómo hacer un pull request a Github?
+Vamos directo al grano. Para hacer un pull request a Github sigue los siguientes pasos:
+
+Hacer un fork del repositorio original con el cual se quiere colaborar.
+
+Clonar el repositorio.
+
+Crear una rama nueva (acá sera donde haremos la colaboración)
+
+Realizar el aporte.
+
+Comitear los cambios.
+
+Subir la rama al repositorio: git push origin [nombre-rama]
+
+Ir a la rama que acabamos de subir a Github y crear el pull request.
+
+
+
+**************************************************************
+
+
 https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
 
 *Creating a pull request
